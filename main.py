@@ -1,3 +1,16 @@
+"""
+Syntax Squad
+
+Nobuhle Mncube 4137032
+Oratile Marope 4498561 
+Nyiko Mashaba 4495912 
+Shepherd Mathebula 4498668
+Thapelo Nyalunga 4458394
+
+main.py
+"""
+
+
 import os
 import mysql.connector
 from dotenv import load_dotenv

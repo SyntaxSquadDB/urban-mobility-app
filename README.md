@@ -11,5 +11,5 @@ uv venv # or however you create your venv
 # activate venv, OS specific
 uv pip install -r requirements.txt # uv sync
 python main.py
-
+```
 ![Alt text](terminal_output.png)
